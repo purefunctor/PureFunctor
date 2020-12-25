@@ -11,4 +11,4 @@ Feel free to check out my pinned projects below.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=PureFunctor&show_icons=true&bg_color=141414&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureFunctor&layout=compact&card_width=250&hide_border=true&bg_color=141414&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureFunctor&layout=compact&card_width=250&hide_border=true&bg_color=141414&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide=dhall,html"/>

@@ -1,10 +1,9 @@
-# Greetings 👋
+# Hello
 
-I'm a self-taught programmer who's currently learning Functional Programming through Haskell.
+I'm a self-taught programmer who's currently learning Functional Programming through different languages.
 
-- I'm continuously learning and using :snake: Python and :blue_book: Haskell for my hobby projects.
-- I'm also fond of learning/talking about programming language features, implementations, and theoretical concepts in general.
-- I’m looking into learning and creating software in low-level languages such as :gear: C/C++ and :crab: Rust in the near future.
+- I'm continuously learning and using Python, Haskell, and PureScript for my hobby projects.
+- I'm currently exploring broader horizons through studying the theoretical and practical foundations of FP.
 - I'm part of the staff on the [Python Discord](https://git.pydis.com), a large community focused around the Python programming language, helping new and experienced developers alike.
 
 Feel free to check out my pinned projects below.

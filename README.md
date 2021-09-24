@@ -22,6 +22,9 @@ Feel free to check out my pinned projects below.
 <hr>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <hr>

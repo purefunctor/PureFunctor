@@ -13,18 +13,15 @@ I'm a self-taught programmer who's currently learning Functional Programming thr
 
 Feel free to check out my pinned projects below.
 
-<hr>
+------
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=PureFunctor&show_icons=true&theme=gruvbox&hide_border=true"/>
+![Language Stats](https://github-readme-stats.vercel.app/api?username=PureFunctor&show_icons=true&theme=gruvbox&hide_border=true)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PureFunctor&layout=compact&card_width=250&hide_border=true&theme=gruvbox&hide=dhall,html)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureFunctor&layout=compact&card_width=250&hide_border=true&theme=gruvbox&hide=dhall,html"/>
-
-<hr>
+------
 
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
-<hr>

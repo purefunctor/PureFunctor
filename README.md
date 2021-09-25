@@ -22,6 +22,9 @@ Feel free to check out my pinned projects below.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Org          47 mins         █████████████████▓░░░░░░░   70.16 % 
+Markdown     9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Emacs Lisp   6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+YAML         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 ```
 <!--END_SECTION:waka-->

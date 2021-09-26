@@ -22,9 +22,10 @@ Feel free to check out my pinned projects below.
 
 <!--START_SECTION:waka-->
 ```text
-Org          47 mins         █████████████████▓░░░░░░░   70.16 % 
-Markdown     9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Emacs Lisp   6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-YAML         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Org          3 hrs 36 mins   ███████████▒░░░░░░░░░░░░░   44.69 % 
+Emacs Lisp   3 hrs 16 mins   ██████████░░░░░░░░░░░░░░░   40.54 % 
+PureScript   58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Markdown     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 <!--END_SECTION:waka-->

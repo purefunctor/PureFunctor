@@ -22,10 +22,10 @@ Feel free to check out my pinned projects below.
 
 <!--START_SECTION:waka-->
 ```text
-Rust         11 hrs 53 mins  █████████░░░░░░░░░░░░░░░░   36.19 % 
-Org          6 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.03 % 
-PureScript   5 hrs 44 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Emacs Lisp   3 hrs 48 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-CSS          2 hrs 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+PureScript   17 hrs 10 mins  █████████▓░░░░░░░░░░░░░░░   38.23 % 
+Rust         11 hrs 53 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.49 % 
+Org          5 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Emacs Lisp   3 hrs 41 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+CSS          3 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
 ```
 <!--END_SECTION:waka-->

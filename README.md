@@ -22,10 +22,10 @@ Feel free to check out my pinned projects below.
 
 <!--START_SECTION:waka-->
 ```text
-PureScript   30 hrs 10 mins  ██████████████████▓░░░░░░   74.25 % 
-CSS          3 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-JavaScript   1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-HTML         1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-Rust         1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+PureScript   30 hrs 10 mins  ██████████████████▓░░░░░░   75.25 % 
+CSS          2 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+SCSS         1 hr 57 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+JavaScript   1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+HTML         1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 ```
 <!--END_SECTION:waka-->

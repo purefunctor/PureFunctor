@@ -6,11 +6,11 @@ I tinker with functional programming languages.
 
 <!--START_SECTION:waka-->
 ```text
-PureScript   28 hrs 52 mins  ████████████████░░░░░░░░░   63.99 % 
-Org          10 hrs 58 mins  ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-C++          1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Markdown     1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Git          44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+PureScript   27 hrs 5 mins   █████████████▓░░░░░░░░░░░   54.90 % 
+Org          16 hrs 4 mins   ████████░░░░░░░░░░░░░░░░░   32.56 % 
+C++          1 hr 33 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Markdown     1 hr 24 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Git          54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 ```
 <!--END_SECTION:waka-->
 

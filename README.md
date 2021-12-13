@@ -1,11 +1,9 @@
 ## introduction
-My name is [..] and I'm currently a freshman computer science student at
-[..]. I work with a variety of functional programming languages—which
-has since become my go-to choice for the programs that I write.
+I'm a freshman computer science student working with functional
+programming languages.
 
 ## learning and using
 * [PureScript](https://www.purescript.org/)
-org/)
 * [OCaml](https://ocaml.org/)
 * [Haskell](https://www.haskell.org/)
 

@@ -1,8 +1,13 @@
-# Hi, I'm PureFunctor
+## introduction
+My name is [..] and I'm currently a freshman computer science student at
+[..]. I work with a variety of functional programming languages—which
+has since become my go-to choice for the programs that I write.
 
-I tinker with functional programming languages.
-
-![Vitriol Header](./vitriol.png)
+## learning and using
+* [PureScript](https://www.purescript.org/)
+org/)
+* [OCaml](https://ocaml.org/)
+* [Haskell](https://www.haskell.org/)
 
 <!--START_SECTION:waka-->
 ```text
@@ -14,9 +19,8 @@ Other        1 hr 33 mins    █▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-## Links
+## links
 + website: https://purefunctor.me
 + twitter: https://twitter.com/PureFunctor
-+ discord: PureFunctor#5339
 + email: purefunctor at gmail.com
 + session/signal: ask through twitter dms

@@ -1,14 +1,11 @@
 ## introduction
-I'm a freshman computer science student working with functional
-programming languages.
 
-## learning and using
-* [PureScript](https://www.purescript.org/)
-* [OCaml](https://ocaml.org/)
-* [Haskell](https://www.haskell.org/)
+I am a computer science student, self-taught functional programmer, and core collaborator to the [PureScript](https://github.com/purescript/purescript) compiler. I use a variety of languages for my work with varying but similar degrees of confidence and competence. I also lean more towards theoretical fields in computer science such as programming language research and type theory.
+
+I mostly started teaching myself functional programming as a hobby, although I'm open for career opportunities.
 
 ## links
++ email: `functor at duck.com`
 + website: https://purefunctor.me
++ fediverse: https://types.pl/@PureFunctor
 + twitter: https://twitter.com/PureFunctor
-+ email: purefunctor at gmail.com
-+ session/signal: ask through twitter dms

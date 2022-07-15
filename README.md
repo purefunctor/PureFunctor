@@ -9,3 +9,5 @@ I mostly started teaching myself functional programming as a hobby, although I'm
 + website: https://purefunctor.me
 + fediverse: https://types.pl/@PureFunctor
 + twitter: https://twitter.com/PureFunctor
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q15092A)
